@@ -200,7 +200,7 @@ CENTRIQA operates on a multi-faceted revenue model:
       </td>
       <td align="center">
         <a href="https://github.com/username2">
-          <img src="https://via.placeholder.com/100" width="100px" alt="Shivam Kumar"/><br />
+          <img src="[https://via.placeholder.com/100](https://media.licdn.com/dms/image/v2/D4E03AQG1a1Emr8QKbQ/profile-displayphoto-shrink_400_400/B4EZUueWz4HUAk-/0/1740241465192?e=1750291200&v=beta&t=ejXfyrJmZ9gD6QgNrnD6wgj57BK1MDmarn17OTKlHYI)" width="100px" alt="Shivam Kumar"/><br />
           <sub><b>Amarjit Singh</b></sub>
         </a><br />
         <sub>Member</sub>
