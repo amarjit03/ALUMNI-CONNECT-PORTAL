@@ -109,15 +109,15 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 
 ### Multilingual Support & Groups
 
-![Multilingual Support](https://i.imgur.com/X6W1RJj.png)
+![Multilingual Support](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/blob/main/assets/images/2.jpg)
 
 ### Communication & Events
 
-![Communication](https://i.imgur.com/PXKhQM1.png)
+![Communication](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/blob/main/assets/images/3.jpg)
 
 ### AI-Powered Coding Environment
 
-![Coding Environment](https://i.imgur.com/4PEjLlg.png)
+![Coding Environment](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/blob/main/assets/images/4.jpg)
 
 ## 🛠️ Tech Stack
 
