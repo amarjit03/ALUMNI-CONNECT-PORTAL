@@ -193,7 +193,7 @@ CENTRIQA operates on a multi-faceted revenue model:
     <tr>
       <td align="center">
         <a href="https://github.com/username1">
-          <img src="https://via.placeholder.com/100" width="100px" alt="Umar Iqbal Haqqani"/><br />
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQEtICOWDks8Zg/profile-displayphoto-shrink_100_100/B4DZUppVbiGcAU-/0/1740160458178?e=1750291200&v=beta&t=1mKa6wEhEmVgQ1ZTc5aMQH7z8hRvKu7TgXYIV3Y51WE" width="100px" alt="Umar Iqbal Haqqani"/><br />
           <sub><b>Umar Iqbal Haqqani</b></sub>
         </a><br />
         <sub>Team Leader</sub>
