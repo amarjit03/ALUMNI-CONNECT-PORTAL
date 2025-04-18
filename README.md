@@ -35,6 +35,20 @@ CENTRIQA is a revolutionary platform designed to bridge the gap between alumni a
 
 To build a next-generation platform that fosters strong alumni-student connections and career growth.
 
+### *Why Do We Need Centriqa?*
+
+- Bridging the Knowledge Gap – Connecting alumni expertise with students.
+
+- Job Market Challenges – Helping students secure opportunities.
+
+- Technology Evolution – Leveraging AR/VR for hands-on learning.
+
+- Freelancing Growth – A marketplace for students to monetize skills.
+
+- AI for Student Performance – Tracking progress & predicting success.
+
+- AI-Powered Code Assistance – Real-time debugging, error detection & auto-completion.
+
 ### Mission
 
 To create a one-stop hub for:
