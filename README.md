@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CENTRIQA Logo](https://home.sangarsh.in/wp-content/uploads/2024/06/cropped-WhatsApp_Image_2024-06-12_at_20.39.58_11a55a2e-removebg-preview.png)
+<img src="https://home.sangarsh.in/wp-content/uploads/2024/06/cropped-WhatsApp_Image_2024-06-12_at_20.39.58_11a55a2e-removebg-preview.png" alt="CENTRIQA Logo" width="150"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
