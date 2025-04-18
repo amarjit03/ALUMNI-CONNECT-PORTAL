@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CENTRIQA Logo](https://via.placeholder.com/200x200?text=CENTRIQA)
+![CENTRIQA Logo]([https://via.placeholder.com/200x200?text=CENTRIQA](https://home.sangarsh.in/))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
