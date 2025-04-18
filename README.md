@@ -105,7 +105,7 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 
 ### User Profiles & Verification
 
-![User Profiles](https://drive.google.com/file/d/1hkY8ML0OGwREUPjWcDV7cH0shGTMy_ZY/view?usp=sharing)
+![User Profiles](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/blob/main/assets/images/1.jpg)
 
 ### Multilingual Support & Groups
 
