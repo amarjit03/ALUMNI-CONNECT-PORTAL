@@ -397,13 +397,13 @@ CENTRIQA operates on a multi-faceted revenue model:
   <tr>
     <td align="center">
       <a href="https://github.com/username1">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQEtICOWDks8Zg/profile-displayphoto-shrink_100_100/B4DZUppVbiGcAU-/0/1740160458178?e=1750291200&v=beta&t=1mKa6wEhEmVgQ1ZTc5aMQH7z8hRvKu7TgXYIV3Y51WE" width="100px" alt="Umar Iqbal Haqqani"/><br />
+        <img src="assets/images/Umar Iqbal Haqqani.jpeg" width="100px" alt="Umar Iqbal Haqqani"/><br />
         <sub><b>Umar Iqbal Haqqani</b></sub>
       </a><br />
       <sub>Team Leader</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/amarjit03">
         <img src="https://media.licdn.com/dms/image/v2/D4E03AQG1a1Emr8QKbQ/profile-displayphoto-shrink_400_400/B4EZUueWz4HUAk-/0/1740241465192?e=1750291200&v=beta&t=ejXfyrJmZ9gD6QgNrnD6wgj57BK1MDmarn17OTKlHYI" width="100px" alt="Amarjit Singh"/><br />
         <sub><b>Amarjit Singh</b></sub>
       </a><br />
