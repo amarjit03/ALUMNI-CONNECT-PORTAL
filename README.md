@@ -18,7 +18,12 @@
 
 </div>
 
+## 🌐 Demo
 
+> "CENTRIQA isn't just a platform — it's a living ecosystem where knowledge is shared, journeys are shaped, and opportunities are passed forward."
+
+- **Live Demo**: [CENTRIQA Platform](https://home.sangarsh.in)
+- **WebDash 2025**
 
 ## 🚀 About
 
@@ -96,8 +101,27 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 - **Brand Building**: Showcase success stories and institutional achievements
 - **Event Management**: Organize and promote alumni-student networking events
 
+## 🖼️ Platform Features
+
+### User Profiles & Verification
+
+![User Profiles](https://i.imgur.com/jmTDEuV.png)
+
+### Multilingual Support & Groups
+
+![Multilingual Support](https://i.imgur.com/X6W1RJj.png)
+
+### Communication & Events
+
+![Communication](https://i.imgur.com/PXKhQM1.png)
+
+### AI-Powered Coding Environment
+
+![Coding Environment](https://i.imgur.com/4PEjLlg.png)
+
 ## 🛠️ Tech Stack
 
+<!-- Your tech stack details go here -->
 
 ## 📖 Usage
 
@@ -118,7 +142,6 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 2. Manage user accounts and content moderation
 3. Organize virtual events and networking sessions
 4. Generate reports on engagement and outcomes
-
 
 ## 💼 Business Model
 
@@ -183,7 +206,6 @@ CENTRIQA operates on a multi-faceted revenue model:
 - Reducing skill gaps in the workforce
 - Improving talent pipeline for industries
 
-
 ## 👥 Team
 
 ### Team Sangarsh 2.O
@@ -216,15 +238,4 @@ CENTRIQA operates on a multi-faceted revenue model:
   </table>
 </div>
 
-
-
-
-## 🌐 Demo
-
-> "CENTRIQA isn't just a platform — it's a living ecosystem where knowledge is shared, journeys are shaped, and opportunities are passed forward."
-
-- **Live Demo**: [CENTRIQA Platform](home.sangarsh.in)
-- **WebDash 2025**
-
-
-
+---
