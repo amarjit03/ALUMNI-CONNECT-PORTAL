@@ -6,10 +6,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/centriqa/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/centriqa.svg)](https://github.com/yourusername/centriqa/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/centriqa.svg)](https://github.com/yourusername/centriqa/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/centriqa.svg)](https://github.com/yourusername/centriqa/issues)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/centriqa.svg)](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/centriqa.svg)](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/network)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/centriqa.svg)](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/issues)
 
 **The Future of Alumni-Student Engagement**  
 *Empowering Careers, Bridging Generations*
