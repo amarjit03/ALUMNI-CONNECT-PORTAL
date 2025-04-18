@@ -226,7 +226,5 @@ CENTRIQA operates on a multi-faceted revenue model:
 - **Live Demo**: [CENTRIQA Platform](home.sangarsh.in)
 - **WebDash 2025**
 
-*Note: Replace the placeholder links with your actual hosted project links when available.*
 
----
 
