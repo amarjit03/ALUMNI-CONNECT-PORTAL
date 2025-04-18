@@ -207,8 +207,8 @@ CENTRIQA operates on a multi-faceted revenue model:
       </td>
       <td align="center">
         <a href="https://github.com/username3">
-          <img src="https://via.placeholder.com/100" width="100px" alt="Swayam Patwa"/><br />
-          <sub><b>Swayam Patwa</b></sub>
+          <img src="https://media.licdn.com/dms/image/v2/D4D03AQFkuRKg5Zimhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726321451099?e=1750291200&v=beta&t=tr3BQwAwMKF2swB2WqQa3rLGiZE6nYwLJdFhXGVeRaA" width="100px" alt="Adarsh Sahu"/><br />
+          <sub><b>Adarsh Sahu</b></sub>
         </a><br />
         <sub>Member</sub>
       </td>
