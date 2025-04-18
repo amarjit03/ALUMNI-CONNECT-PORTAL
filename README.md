@@ -223,8 +223,8 @@ CENTRIQA operates on a multi-faceted revenue model:
 
 > "CENTRIQA isn't just a platform — it's a living ecosystem where knowledge is shared, journeys are shaped, and opportunities are passed forward."
 
-- **Live Demo**: [CENTRIQA Platform](https://your-live-demo-link-here.com)
-- **WebDash 2025 Entry**: [WebDash Submission](https://your-webdash-entry-link-here.com)
+- **Live Demo**: [CENTRIQA Platform](home.sangarsh.in)
+- **WebDash 2025**
 
 *Note: Replace the placeholder links with your actual hosted project links when available.*
 
