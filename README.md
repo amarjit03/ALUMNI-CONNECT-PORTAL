@@ -186,7 +186,7 @@ CENTRIQA operates on a multi-faceted revenue model:
 
 ## 👥 Team
 
-### Team Sangharsh 2.0
+### Team Sangarsh 2.O
 
 <div align="center">
   <table>
