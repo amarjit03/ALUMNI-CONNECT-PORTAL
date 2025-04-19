@@ -14,7 +14,7 @@
 <h1>The Future of Alumni-Student Engagement</h1>
 <h3><em>Empowering Careers, Bridging Generations</em></h3>
 
-[Demo](https://your-live-demo-link-here.com) • [Documentation](https://github.com/yourusername/centriqa/wiki) • [Report Bug](https://github.com/yourusername/centriqa/issues) • [Request Feature](https://github.com/yourusername/centriqa/issues)
+[Demo](https://home.sangarsh.in) • [Documentation](https://github.com/yourusername/centriqa/wiki) • [Report Bug](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/issues) • [Request Feature](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/issues)
 
 </div>
 
