@@ -343,7 +343,6 @@ CENTRIQA operates on a multi-faceted revenue model:
 | Alumni Database | ✅ Advanced | ⚠️ Limited | ✅ Basic | ✅ Yes | ✅ Yes |
 | AI Matchmaking | ✅ Yes | ❌ No | ⚠️ Limited | ❌ No | ❌ No |
 | AR/VR Learning | ✅ Yes | ❌ No | ❌ No | ❌ No | ❌ No |
-| Blockchain Security | ✅ Yes | ❌ No | ❌ No | ❌ No | ❌ No |
 | Freelance Marketplace | ✅ Yes | ⚠️ Limited | ❌ No | ❌ No | ❌ No |
 | Focused on Education | ✅ Yes | ❌ No | ✅ Yes | ✅ Yes | ✅ Yes |
 | Code Collaboration | ✅ Yes | ❌ No | ❌ No | ❌ No | ❌ No |
