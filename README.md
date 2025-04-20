@@ -415,21 +415,21 @@ CENTRIQA operates on a multi-faceted revenue model:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username1">
+      <a href="https://www.linkedin.com/in/umar-iqbal-haqqani-576bba252/">
         <img src="assets/images/Umar Iqbal Haqqani.jpeg" width="100px" alt="Umar Iqbal Haqqani"/><br />
         <sub><b>Umar Iqbal Haqqani</b></sub>
       </a><br />
       <sub>Team Leader</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/amarjit03">
+      <a href="https://www.linkedin.com/in/amarjit003/">
         <img src="https://media.licdn.com/dms/image/v2/D4E03AQG1a1Emr8QKbQ/profile-displayphoto-shrink_400_400/B4EZUueWz4HUAk-/0/1740241465192?e=1750291200&v=beta&t=ejXfyrJmZ9gD6QgNrnD6wgj57BK1MDmarn17OTKlHYI" width="100px" alt="Amarjit Singh"/><br />
         <sub><b>Amarjit Singh</b></sub>
       </a><br />
       <sub>Member</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/username3">
+      <a href="https://www.linkedin.com/in/adarsh-sahu-272939291/">
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQFkuRKg5Zimhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726321451099?e=1750291200&v=beta&t=tr3BQwAwMKF2swB2WqQa3rLGiZE6nYwLJdFhXGVeRaA" width="100px" alt="Adarsh Sahu"/><br />
         <sub><b>Adarsh Sahu</b></sub>
       </a><br />
