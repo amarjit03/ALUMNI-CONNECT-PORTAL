@@ -245,7 +245,17 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 <summary><h2>🛠️ Tech Stack</h2></summary>
 
 <!-- Your tech stack details go here -->
+Full Stack: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
+AI/ML: Python, TensorFlow, Google Cloud AutoML
+
+Blockchain: Ethereum
+
+Database: MongoDB, PostgreSQL, Firebase Realtime DB
+
+Chatbot & AI Assistance: Google Gemini API
+
+Additional Tools & Libraries: VS Code, Monaco Editor
 </details>
 
 ---
