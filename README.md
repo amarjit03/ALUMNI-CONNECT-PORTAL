@@ -215,6 +215,11 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 <summary><h2>🖼️ Platform Features</h2></summary>
 
 <div align="center">
+<h3>Home Page</h3>
+
+![Home Page](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL/blob/main/assets/images/Screenshot%20from%202025-04-20%2008-16-17.png)
+
+  
 <h3>User Profiles & Verification</h3>
 
 ![User Profiles](https://github.com/amarjit03/ALUMNI-CONNECT-PORTAL-/blob/main/assets/images/1.jpg)
