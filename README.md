@@ -246,22 +246,20 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 
 <!-- Your tech stack details go here -->
 
-| Category        | Technology / Tool                          |
+| Category       | Technology / Tool                           |
 |----------------|---------------------------------------------|
 | Frontend       | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
-| Backend        | Node.js, Express.js                         |
-| Database       | MongoDB                                     |
+| Backend        | Node.js, PHP                                |
+| Database       | MySQL, Firebase Realtime DB                 |
 | Authentication | JWT (JSON Web Token), OAuth                 |
 | AI/ML          | Python, TensorFlow, Scikit-learn            |
 | Blockchain     | Ethereum, Solidity, Web3.js                 |
-| AR/VR          | Unity3D, WebXR, A-Frame                     |
-| CMS            | WordPress (BuddyBoss Platform)              |
-| DevOps         | Git, GitHub, Docker                         |
-| Hosting        | Vercel, AWS EC2, GitHub Pages               |
+| AR/VR          | Unity3D, WebXR                              |
+| Hosting        | Hostinger                                   |
 | Analytics      | Google Analytics, Matomo                    |
-| Payment        | Razorpay, PayPal                            |
 | Communication  | WebSocket, Socket.IO                        |
 | APIs           | RESTful APIs, GraphQL                       |
+|Chatbot & AI Assistance | Google Gemini API                   |
 
 </details>
 
