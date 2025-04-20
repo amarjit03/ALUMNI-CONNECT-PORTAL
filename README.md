@@ -245,17 +245,24 @@ With CENTRIQA, students don't just connect — they receive real-world guidance 
 <summary><h2>🛠️ Tech Stack</h2></summary>
 
 <!-- Your tech stack details go here -->
-Full Stack: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
-AI/ML: Python, TensorFlow, Google Cloud AutoML
+| Category        | Technology / Tool                          |
+|----------------|---------------------------------------------|
+| Frontend       | HTML5, CSS3, JavaScript, React.js, Tailwind CSS |
+| Backend        | Node.js, Express.js                         |
+| Database       | MongoDB                                     |
+| Authentication | JWT (JSON Web Token), OAuth                 |
+| AI/ML          | Python, TensorFlow, Scikit-learn            |
+| Blockchain     | Ethereum, Solidity, Web3.js                 |
+| AR/VR          | Unity3D, WebXR, A-Frame                     |
+| CMS            | WordPress (BuddyBoss Platform)              |
+| DevOps         | Git, GitHub, Docker                         |
+| Hosting        | Vercel, AWS EC2, GitHub Pages               |
+| Analytics      | Google Analytics, Matomo                    |
+| Payment        | Razorpay, PayPal                            |
+| Communication  | WebSocket, Socket.IO                        |
+| APIs           | RESTful APIs, GraphQL                       |
 
-Blockchain: Ethereum
-
-Database: MongoDB, PostgreSQL, Firebase Realtime DB
-
-Chatbot & AI Assistance: Google Gemini API
-
-Additional Tools & Libraries: VS Code, Monaco Editor
 </details>
 
 ---
